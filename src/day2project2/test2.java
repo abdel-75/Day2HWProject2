@@ -7,5 +7,12 @@ public class test2 {
 	
 		
 	}
+	 public static void pushProcess(String projectName, String fileName) {
+		 
+		 System.out.println(projectName + fileName);
+		 
+	 }
+	 
+	
 
 }
